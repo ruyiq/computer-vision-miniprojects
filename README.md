@@ -1,1 +1,1 @@
-# digit-recognition
+# Computer-Vision-Miniprojects
